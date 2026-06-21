@@ -1,0 +1,31 @@
+employee_id,age,salary_usd,years_experience,performance_score,department,city
+1001,22,35000,1,72,Sales,Buenos Aires
+1002,25,42000,2,75,HR,Cordoba
+1003,28,48000,3,80,IT,Rosario
+1004,31,55000,5,82,IT,Mendoza
+1005,35,62000,8,85,Finance,La Plata
+1006,29,51000,4,78,Sales,Salta
+1007,41,78000,15,91,IT,Buenos Aires
+1008,38,72000,12,88,Finance,Cordoba
+1009,27,46000,2,76,HR,Rosario
+1010,33,59000,6,83,Sales,Mendoza
+1011,45,85000,20,95,IT,La Plata
+1012,24,39000,1,74,HR,Salta
+1013,30,53000,5,81,Sales,Buenos Aires
+1014,36,67000,10,86,Finance,Cordoba
+1015,40,81000,18,93,IT,Rosario
+1016,26,44000,3,77,HR,Mendoza
+1017,32,57000,7,84,Sales,La Plata
+1018,37,70000,11,89,Finance,Salta
+1019,43,83000,19,94,IT,Buenos Aires
+1020,39,76000,14,90,Finance,Cordoba
+1021,23,37000,1,73,HR,Rosario
+1022,34,61000,7,82,Sales,Mendoza
+1023,42,80000,17,92,IT,La Plata
+1024,44,87000,21,96,Finance,Salta
+1025,28,49000,3,79,Sales,Buenos Aires
+1026,31,56000,5,81,HR,Cordoba
+1027,35,64000,9,87,Finance,Rosario
+1028,29,52000,4,78,Sales,Mendoza
+1029,38,73000,13,88,IT,La Plata
+1030,41,79000,16,91,Finance,Salta

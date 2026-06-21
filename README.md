@@ -20,7 +20,7 @@ DATASET_VISUAL_EXPLORER/
 │   └── Loads and validates CSV datasets
 │
 ├── explorer.py
-│   └── Contains the explorer class
+│   └── Contains the DataExplorer class
 │
 └── visualizer.py
     └── Displays summarized results and insights
